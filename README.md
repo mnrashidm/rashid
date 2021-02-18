@@ -1,1 +1,1 @@
-# rashid
+# Malaria-Detection
